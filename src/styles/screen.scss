@@ -178,12 +178,17 @@ $panel-color: mix($darkGrey, $blue, 30);
       display: flex;
 
       > figure {
-        flex-basis: 24rem;
+        width: 300px;
         margin-bottom: 0;
         margin-right: 1rem;
 
         img {
+          width: 300px;
         }
+      }
+
+      > .content {
+        flex: 1;
       }
 
       .name-title {
