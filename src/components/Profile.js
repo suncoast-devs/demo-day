@@ -5,7 +5,7 @@ const Profile = ({ name, tagline, bio, links, hireable, proforma }) => (
   <article className="student-profile">
     <div className="primary">
       <figure>
-        <img src={`/photos/${name.split(' ')[0].toLowerCase()}.jpg`} alt="" />
+        <img src={`/photos/${name.split(' ')[0].toLowerCase()}.png`} alt="" />
       </figure>
       <div className="content">
         <div className="name-title">
