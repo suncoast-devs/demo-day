@@ -1,8 +1,8 @@
 [
   {
     "name": "Dino Ribeiro",
-    "tagline": "English Premier League",
-    "bio": "I've created a fan page of my favorite football league, the English Premier League. I've using an API to load some of my data, and the rest of the data it's being loaded from my own database I've created with Ruby on Rails.  Users can navigate the pages that include a live standings from the league, as well teams, players, head coaches, and stadiums.",
+    "tagline": "Developer, Smart Ass!",
+    "bio": "My parents are my heroes and they have thought me to treat people with respect and integrity.  Completing SDG course was probably one of the most challenging thing I have accomplished in my life and I am very proud of my accomplishments.",
     "email": "DRibeiro1124@gmail.com",
     "links": {
       "portfolio": null,
@@ -15,8 +15,8 @@
   },
   {
     "name": "Alexis Grisham",
-    "tagline": "TBDVSupport",
-    "bio": "This page is a online support group for domestic violence victims to anonymously post their stories and feel a sense of community and support from each other, especially if they are unable to make it to an in-person support group.",
+    "tagline": "Developer, mom, coffee enthusiast",
+    "bio": "I am a junior developer greatly interested in incorporating education and tech together. I am always willing to learn new things and try new experiences, and know my love of people and technology will lead me down a bright path.",
     "email": "alexiskjg16@gmail.com",
     "links": {
       "portfolio": "http://alexiskelly.ink/",
@@ -27,8 +27,8 @@
   },
   {
     "name": "Gustavo Kemenyfy",
-    "tagline": "DevsCulture",
-    "bio": "Resource page for/by developers. It comes from our needs to access a fast reference to the most used resources out there. The project was created with Vue.js and C#, PostgreSQL, ASP .NET on the backend while using JQuery, Bootstrap, and SASS to supplement the UI/UX.",
+    "tagline": "Developer, father and builder of things.",
+    "bio": "I am passionate about coding excellent software that improves the lives of those around me. I love programming, writing, speaking, traveling, board games and organizing my garage.",
     "email": "gustavo.kemenyfy@gmail.com",
     "links": {
       "portfolio": "http://www.kemenyfy.io",
@@ -54,7 +54,11 @@
     "tagline": "Extracurricular",
     "bio": "An attendance app for extracurricular sports and activities sponors",
     "email": "michaelsolone@gmail.com",
-    "links": {},
+    "links": {
+      "portfolio": "http://extracurricular.site/",
+      "github": "https://github.com/msolone",
+      "linkedin": "https://www.linkedin.com/in/michael-solone-6a3200148/"
+    },
     "hireable": true
   },
   {
@@ -87,14 +91,15 @@
     "bio": "",
     "email": "",
     "links": {
-      "linkedin": "https://www.linkedin.com/in/vmoreno/"
+      "github": "https://github.com/vzmon1",
+      "linkedin": "https://www.linkedin.com/in/vmoreno"
     },
     "hireable": false
   },
   {
     "name": "Jason Rocha",
-    "tagline": "Tide-Tracker",
-    "bio": "A web application that reads data for coastal conditions from the National Oceanic and Atmospheric Administration's weather stations.  The user can enter a search based on their location.",
+    "tagline": "Developer, Designer, Determined",
+    "bio": "I am a full-stack developer coming from a graphic design background, interested in shifting my focus to back-end development.  I also have a strong interest in ever-evolving front-end frameworks.",
     "email": "",
     "links": {
       "portfolio": "http://jasonrocha.com",
