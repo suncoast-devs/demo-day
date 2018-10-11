@@ -151,17 +151,25 @@ $panel-color: mix($darkGrey, $blue, 30);
       }
     }
 
-    .hireable {
+    .hireable,
+    .proforma {
       text-transform: uppercase;
       font-size: typeScale(1);
-      background-color: $brightOrange;
       text-shadow: 1px 1px 0 transparentize($darkGrey, 0.5);
-      border: thin solid $orange;
       font-weight: 700;
       white-space: nowrap;
       padding: 0.05rem 0.2rem;
       border-radius: 2px;
       box-shadow: 0.1rem 0.1rem 0 darken($panel-color, 10);
+    }
+
+    .hireable {
+      background-color: $brightOrange;
+      border: thin solid $orange;
+    }
+
+    .proforma {
+      background-color: #a70b56;
     }
   }
 
