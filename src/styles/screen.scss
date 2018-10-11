@@ -1,0 +1,271 @@
+@import 'colors';
+@import 'concise';
+
+body {
+  background-color: $blue;
+  color: $darkGrey;
+}
+
+.app-header {
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: $blue;
+  height: 80vh;
+
+  h2,
+  time {
+    text-shadow: 1px 1px 1px transparentize($darkGrey, 0.5);
+  }
+
+  h2 {
+    font-size: typeScale(5);
+    color: lighten($cream, 5);
+  }
+
+  time {
+    text-transform: uppercase;
+    font-size: typeScale(3);
+    font-weight: 700;
+    color: $cream;
+  }
+
+  > .banner {
+    width: 100%;
+    max-width: 42rem;
+    padding: 0 1rem 2rem;
+
+    > svg {
+      height: 100%;
+      width: 100%;
+
+      .cls-1,
+      .cls-4 {
+        fill: $darkGrey;
+        opacity: 0.5;
+      }
+      .cls-2 {
+        fill: $cream;
+      }
+      .cls-3 {
+        fill: $brightPurple;
+      }
+      .cls-5 {
+        fill: $purple;
+      }
+    }
+  }
+}
+
+.intro {
+  border-top: 2rem solid lighten($blue, 10);
+  background-color: lighten($blue, 20);
+  padding: 1rem 0;
+}
+
+.special-thanks {
+  border-bottom: 2rem solid lighten($blue, 10);
+  background-color: lighten($blue, 20);
+  padding: 1rem 0;
+
+  figure {
+    margin-top: 1rem;
+    text-align: center;
+  }
+}
+
+main {
+  background-color: lighten($blue, 35);
+  border-bottom: 1rem solid $blue;
+}
+
+.student-profiles {
+  > header {
+    text-align: center;
+    margin: 2rem 0;
+  }
+}
+
+$panel-color: mix($darkGrey, $blue, 30);
+
+.student-profile {
+  background-color: lighten($cream, 5);
+  margin-bottom: 1rem;
+
+  > .primary {
+    border: thin solid $panel-color;
+    padding: 1rem;
+
+    > figure {
+      width: 100%;
+      overflow: hidden;
+      margin-bottom: 1rem;
+
+      img {
+        width: 100%;
+      }
+    }
+
+    .name-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      h4 {
+        font-family: $font-primary;
+        font-style: italic;
+        font-weight: 400;
+        opacity: 0.66;
+      }
+    }
+
+    > h3 {
+      font-size: typeScale(6);
+    }
+  }
+
+  > footer {
+    padding: 0.5rem;
+    background-color: $panel-color;
+    color: lighten($cream, 5);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+    a,
+    a:link,
+    a:visited {
+      color: lighten($cream, 5);
+    }
+
+    .links ul {
+      display: flex;
+      padding: 0;
+
+      li {
+        margin: 0 0.5rem;
+        text-shadow: 0.1rem 0.1rem 0 darken($panel-color, 10);
+      }
+    }
+
+    .hireable {
+      text-transform: uppercase;
+      font-size: typeScale(1);
+      background-color: $brightOrange;
+      text-shadow: 1px 1px 0 transparentize($darkGrey, 0.5);
+      border: thin solid $orange;
+      font-weight: 700;
+      white-space: nowrap;
+      padding: 0.05rem 0.2rem;
+      border-radius: 2px;
+      box-shadow: 0.1rem 0.1rem 0 darken($panel-color, 10);
+    }
+  }
+
+  @media only screen and (min-width: 50rem) {
+    > .primary {
+      display: flex;
+
+      > figure {
+        flex-basis: 24rem;
+        margin-bottom: 0;
+        margin-right: 1rem;
+
+        img {
+        }
+      }
+
+      .name-title {
+        flex: 4;
+        margin-bottom: 1rem;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  }
+}
+
+.app-footer {
+  background-color: $brightOrange;
+  border-top: 0.5rem solid $orange;
+
+  > aside {
+    margin: 2rem auto;
+  }
+
+  > .copyright {
+    padding: 1rem 0;
+    background-color: $brightYellow;
+    font-weight: 700;
+  }
+
+  > .love {
+    padding: 0.5rem 0;
+    background-color: $brightGreen;
+    text-transform: uppercase;
+    font-size: typeScale(2);
+    font-weight: 200;
+    color: darken($green, 10);
+
+    span {
+      font-size: 0.8rem;
+      margin-right: -0.2rem;
+    }
+  }
+}
+
+.app-footer .logo {
+  > svg {
+    width: 120px;
+
+    .cls-1 {
+      fill: #5a9191;
+    }
+    .cls-2 {
+      fill: #81d0d3;
+    }
+    .cls-3 {
+      fill: #76bdbc;
+    }
+    .cls-4 {
+      fill: #d6562b;
+    }
+    .cls-5 {
+      fill: #231f20;
+      fill-opacity: 0.3;
+    }
+    .cls-6 {
+      fill: #895881;
+    }
+    .cls-7 {
+      fill: #c6a9b5;
+    }
+    .cls-8 {
+      fill: #fff200;
+    }
+    .cls-9 {
+      fill: #f9a01b;
+    }
+    .cls-10 {
+      fill: #fff;
+    }
+    .cls-11 {
+      fill: #b2d235;
+    }
+    .cls-12 {
+      fill: #f7f2da;
+    }
+    .cls-13 {
+      fill: #df8b26;
+    }
+    .cls-14 {
+      fill: #e4d41d;
+    }
+    .cls-15 {
+      fill: #a4bf3a;
+    }
+  }
+}

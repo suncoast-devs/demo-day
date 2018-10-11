@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Dino Ribeiro",
+    "tagline": "English Premier League",
+    "bio": "I've created a fan page of my favorite football league, the English Premier League. I've using an API to load some of my data, and the rest of the data it's being loaded from my own database I've created with Ruby on Rails.  Users can navigate the pages that include a live standings from the league, as well teams, players, head coaches, and stadiums.",
+    "links": {
+      "portfolio": null,
+      "email": null,
+      "blog": null,
+      "github": "https://github.com/DRibeiro1124",
+      "twitter": "https://twitter.com/DRibeiro24",
+      "linkedin": "https://www.linkedin.com/in/dino-ribeiro-00a8b2147/"
+    },
+    "hireable": true
+  },
+  {
+    "name": "Michael Solone",
+    "tagline": "Extracurricular",
+    "bio": "An attendance app for extracurricular sports and activities sponors",
+    "links": {},
+    "hireable": true
+  },
+  {
+    "name": "Jason Rocha",
+    "tagline": "Tide-Tracker",
+    "bio": "A web application that reads data for coastal conditions from the National Oceanic and Atmospheric Administration's weather stations.  The user can enter a search based on their location.",
+    "links": {},
+    "hireable": false
+  },
+  {
+    "name": "Jeff Webb",
+    "tagline": "Palma Ceia Limo",
+    "bio": "Scheduling with React Big Calendar user interface and Ruby database. Also using Ruby on Rails for database input.",
+    "links": {},
+    "hireable": true
+  },
+  {
+    "name": "Manuel Solis",
+    "tagline": "My Personality Test",
+    "bio": "This personality test can be used in two ways at least.\n\nIt can be used as simple an engaging way to drive visitors to learn more about DISC personality assessments and buy their evaluation online.\n\nIt can also be used as a way to engage with site visitors to generate leads. It builds a database of users with specific communication styles. This knowledge would help to serve engaging content in style the individual likes to communicate.",
+    "links": {},
+    "hireable": false
+  },
+  {
+    "name": "Alexis Grisham",
+    "tagline": "TBDVSupport",
+    "bio": "This page is a online support group for domestic violence victims to anonymously post their stories and feel a sense of community and support from each other, especially if they are unable to make it to an in-person support group.",
+    "links": {},
+    "hireable": true
+  },
+  {
+    "name": "Vidal Moreno",
+    "tagline": "",
+    "bio": "",
+    "links": {},
+    "hireable": false
+  },
+  {
+    "name": "Gustavo Kemenyfy",
+    "tagline": "DevsCulture",
+    "bio": "Resource page for/by developers. It comes from our needs to access a fast reference to the most used resources out there. The project was created with Vue.js and C#, PostgreSQL, ASP .NET on the backend while using JQuery, Bootstrap, and SASS to supplement the UI/UX.",
+    "links": {},
+    "hireable": true
+  },
+  {
+    "name": "Chris Packett",
+    "tagline": "Tutorfy",
+    "bio": "Tutorfy is a student-to-tutor matching network based on personality, learning styles, and practical fit. The first iteration includes a seamless experience that allows students to schedule appointments with their matched tutors.",
+    "links": {},
+    "hireable": false
+  },
+  {
+    "name": "Daniel Somoano",
+    "tagline": "Daily Map",
+    "bio": "My project will focus on a user's location, taking their location and creating an event as a Mapping calendar. This will keep a history of a user's events within their profile. This program will implement http requests, endpoint creation, and databases.",
+    "links": {},
+    "hireable": true
+  },
+  {
+    "name": "",
+    "tagline": "",
+    "bio": "",
+    "links": {},
+    "hireable": true
+  }
+]
