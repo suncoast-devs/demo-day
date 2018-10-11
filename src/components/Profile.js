@@ -1,7 +1,7 @@
 import React from 'react'
 import Icon from './Icon'
 
-const Profile = ({ name, tagline, bio, links, hireable, proforma }) => (
+const Profile = ({ name, tagline, bio, email, links, hireable, proforma }) => (
   <article className="student-profile">
     <div className="primary">
       <figure>
@@ -32,7 +32,11 @@ const Profile = ({ name, tagline, bio, links, hireable, proforma }) => (
           )}
         </ul>
       </nav>
-      {hireable && <span className="hireable">Available for Hire</span>}
+      {hireable && (
+        <span className="hireable">
+          <a href={`mailto:${email}`}>Available for Hire</a>
+        </span>
+      )}
       {proforma && <span className="proforma">Proforma Beneficiary</span>}
     </footer>
   </article>
