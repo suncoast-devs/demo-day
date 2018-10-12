@@ -13,7 +13,8 @@ body {
   justify-content: center;
   align-items: center;
   background-color: $blue;
-  height: 80vh;
+  height: 100vh;
+  position: relative;
 
   h2,
   time {
@@ -57,12 +58,32 @@ body {
       }
     }
   }
+
+  footer {
+    color: $cream;
+    background-color: lighten($blue, 10);
+    height: 10vh;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 .intro {
-  border-top: 2rem solid lighten($blue, 10);
   background-color: lighten($blue, 20);
   padding: 1rem 0;
+
+  h3 {
+    margin-top: 2rem;
+  }
+
+  a {
+    color: $darkGrey;
+    font-weight: 700;
+  }
 }
 
 .special-thanks,
