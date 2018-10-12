@@ -39,8 +39,8 @@
   },
   {
     "name": "Daniel Somoano",
-    "tagline": "Daily Map",
-    "bio": "My project will focus on a user's location, taking their location and creating an event as a Mapping calendar. This will keep a history of a user's events within their profile. This program will implement http requests, endpoint creation, and databases.",
+    "tagline": "Developer, craftsman, visionary",
+    "bio": "Daniel is a developer who puts a lot of detail in making an innovative yet tasteful product.",
     "email": "dnsomoano@gmail.com",
     "links": {
       "portfolio": "http://my-portfolio-2-dan.surge.sh/",
@@ -63,8 +63,8 @@
   },
   {
     "name": "Jeff Webb",
-    "tagline": "Palma Ceia Limo",
-    "bio": "Scheduling with React Big Calendar user interface and Ruby database. Also using Ruby on Rails for database input.",
+    "tagline": "World traveler, Entrepreneur, and all around fun guy.",
+    "bio": "Jeff is a fun and loving family man who grew up in the Bay area... and today he is graduating as a Web Developer.",
     "email": "webbwear@gmail.com",
     "links": {
       "portfolio": "http://webb.ooo",
