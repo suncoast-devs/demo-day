@@ -3,6 +3,7 @@ import Emoji from './Emoji'
 import { ReactComponent as Banner } from '../images/banner.svg'
 import { ReactComponent as Logo } from '../images/logo.svg'
 import proforma from '../images/proforma.png'
+import malwarebytes from '../images/malwarebytes.png'
 import Profile from './Profile'
 
 import profiles from '../profiles.json'
@@ -50,6 +51,17 @@ class App extends Component {
               </p>
               <figure>
                 <img src={proforma} alt="PROForma" height="48" />
+              </figure>
+            </div>
+          </section>
+          <section className="sponsor-feature">
+            <div container="true">
+              <p>
+                We would also like to thank Malwarebytes, an active member of our Advisory Board, for providing food and
+                beverages for all of us to enjoy and celebrate with the graduates.
+              </p>
+              <figure>
+                <img src={malwarebytes} alt="Malwarebytes" height="64" />
               </figure>
             </div>
           </section>

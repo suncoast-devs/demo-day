@@ -65,15 +65,22 @@ body {
   padding: 1rem 0;
 }
 
-.special-thanks {
-  border-bottom: 2rem solid lighten($blue, 10);
-  background-color: lighten($blue, 20);
+.special-thanks,
+.sponsor-feature {
   padding: 1rem 0;
 
   figure {
     margin-top: 1rem;
     text-align: center;
   }
+}
+
+.special-thanks {
+  background-color: lighten($blue, 20);
+}
+
+.sponsor-feature {
+  background-color: lighten($blue, 10);
 }
 
 main {
