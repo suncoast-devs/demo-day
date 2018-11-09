@@ -1,6 +1,76 @@
 [
   {
-    "name": "Michael Yenny",
+    "name": "Allan Seitz",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },
+  {
+    "name": "Andrew Lanza",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },
+  {
+    "name": "Benjamin Jehl",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },
+  {
+    "name": "Gabe Oleinik",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },
+  {
+    "name": "Justin Lee",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },
+  {
+    "name": "Karsten Rogers",
     "tagline": "// TODO",
     "bio": "// TODO",
     "email": "// TODO",
@@ -28,72 +98,7 @@
     "hireable": true
   },
   {
-    "name": "Karsten Rogers",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
-    "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
-    },
-    "hireable": true
-  },{
-    "name": "Justin Lee",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
-    "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
-    },
-    "hireable": true
-  },{
-    "name": "Gabe Oleinik",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
-    "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
-    },
-    "hireable": true
-  },{
-    "name": "Benjamin Jehl",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
-    "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
-    },
-    "hireable": true
-  },{
-    "name": "Andrew Lanza",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
-    "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
-    },
-    "hireable": true
-  },{
-    "name": "Allan Seitz",
+    "name": "Michael Yenny",
     "tagline": "// TODO",
     "bio": "// TODO",
     "email": "// TODO",
@@ -106,5 +111,4 @@
     },
     "hireable": true
   },
-
 ]
