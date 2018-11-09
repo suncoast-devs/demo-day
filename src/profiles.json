@@ -1,123 +1,110 @@
 [
   {
-    "name": "Dino Ribeiro",
-    "tagline": "Developer, Smart Ass!",
-    "bio": "My parents are my heroes and they have thought me to treat people with respect and integrity.  Completing SDG course was probably one of the most challenging thing I have accomplished in my life and I am very proud of my accomplishments.",
-    "email": "DRibeiro1124@gmail.com",
+    "name": "Michael Yenny",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
     "links": {
-      "portfolio": null,
-      "blog": null,
-      "github": "https://github.com/DRibeiro1124",
-      "twitter": "https://twitter.com/DRibeiro24",
-      "linkedin": "https://www.linkedin.com/in/dino-ribeiro-00a8b2147/"
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
     },
     "hireable": true
   },
   {
-    "name": "Alexis Grisham",
-    "tagline": "Developer, mom, coffee enthusiast",
-    "bio": "I am a junior developer greatly interested in incorporating education and tech together. I am always willing to learn new things and try new experiences, and know my love of people and technology will lead me down a bright path.",
-    "email": "alexiskjg16@gmail.com",
+    "name": "Matthew Cooke",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
     "links": {
-      "portfolio": "http://alexiskelly.ink/",
-      "github": "https://github.com/Alexiskjg",
-      "linkedin": "https://www.linkedin.com/in/alexiskjgrisham/"
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
     },
     "hireable": true
   },
   {
-    "name": "Gustavo Kemenyfy",
-    "tagline": "Developer, father and builder of things.",
-    "bio": "I am passionate about coding excellent software that improves the lives of those around me. I love programming, writing, speaking, traveling, board games and organizing my garage.",
-    "email": "gustavo.kemenyfy@gmail.com",
+    "name": "Karsten Rogers",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
     "links": {
-      "portfolio": "http://www.kemenyfy.io",
-      "github": "https://github.com/Kemenyfy",
-      "linkedin": "https://www.linkedin.com/in/kemenyfy/"
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },{
+    "name": "Justin Lee",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },{
+    "name": "Gabe Oleinik",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },{
+    "name": "Benjamin Jehl",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },{
+    "name": "Andrew Lanza",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
+    },
+    "hireable": true
+  },{
+    "name": "Allan Seitz",
+    "tagline": "// TODO",
+    "bio": "// TODO",
+    "email": "// TODO",
+    "links": {
+      "portfolio": "// TODO",
+      "blog": "// TODO",
+      "github": "// TODO",
+      "twitter": "// TODO",
+      "linkedin": "// TODO"
     },
     "hireable": true
   },
-  {
-    "name": "Daniel Somoano",
-    "tagline": "Developer, craftsman, visionary",
-    "bio": "Daniel is a developer who puts a lot of detail in making an innovative yet tasteful product.",
-    "email": "dnsomoano@gmail.com",
-    "links": {
-      "portfolio": "http://my-portfolio-2-dan.surge.sh/",
-      "github": "https://github.com/dnsomoano",
-      "linkedin": "https://www.linkedin.com/in/daniel-n-somoano/"
-    },
-    "hireable": true
-  },
-  {
-    "name": "Michael Solone",
-    "tagline": "Problem Solver, Teacher, Leader",
-    "bio": "A competitor with the will and drive to push myself past my limits mentally and physically to see what kind of man comes out on the other side",
-    "email": "michaelsolone@gmail.com",
-    "links": {
-      "portfolio": "http://extracurricular.site/",
-      "github": "https://github.com/msolone",
-      "linkedin": "https://www.linkedin.com/in/michael-solone-6a3200148/"
-    },
-    "hireable": true
-  },
-  {
-    "name": "Jeff Webb",
-    "tagline": "World traveler, Entrepreneur, and all around fun guy.",
-    "bio": "Jeff is a fun and loving family man who grew up in the Bay area... and today he is graduating as a Web Developer.",
-    "email": "webbwear@gmail.com",
-    "links": {
-      "portfolio": "http://webb.ooo",
-      "github": "https://github.com/WebbWear",
-      "linkedin": "https://www.linkedin.com/in/jeff-webb-tampa/"
-    },
-    "hireable": true
-  },
-  {
-    "name": "Manuel Solis",
-    "tagline": "Marketer, software developer and overall easy going person",
-    "bio": "I'm a web developer with marketing skills. I believe that growth begins at the end of your comfort zone. Pushing our limits is what helps us become a better version of ourselves everyday.",
-    "email": "",
-    "links": {
-      "github": "https://github.com/solismc",
-      "blog": "https://medium.com/@manolocsolis",
-      "linkedin": "https://www.linkedin.com/in/manuelcsolis"
-    },
-    "hireable": false
-  },
-  {
-    "name": "Vidal Moreno",
-    "tagline": "",
-    "bio": "",
-    "email": "",
-    "links": {
-      "github": "https://github.com/vzmon1",
-      "linkedin": "https://www.linkedin.com/in/vmoreno"
-    },
-    "hireable": false
-  },
-  {
-    "name": "Jason Rocha",
-    "tagline": "Developer, Designer, Determined",
-    "bio": "I am a full-stack developer coming from a graphic design background, interested in shifting my focus to back-end development.  I also have a strong interest in ever-evolving front-end frameworks.",
-    "email": "",
-    "links": {
-      "portfolio": "http://jasonrocha.com",
-      "github": "https://github.com/rochaproforma",
-      "linkedin": "https://www.linkedin.com/in/jason-dylan-rocha/"
-    },
-    "proforma": true
-  },
-  {
-    "name": "Chris Packett",
-    "tagline": "Learner, Developer, Entrepreneur",
-    "bio": "Chris is a life-long learner and aspires to be the best version of himself that he can be. He is relentlessly curious and finds it difficult to leave problems unsolved. He is eager to channel his creativity through software development, with the aim to better people's lives.",
-    "email": "",
-    "links": {
-      "portfolio": "https://packett.io/",
-      "github": "https://github.com/chris-packett",
-      "linkedin": "https://www.linkedin.com/in/chris-packett/"
-    },
-    "proforma": true
-  }
+
 ]
