@@ -99,15 +99,15 @@
   },
   {
     "name": "Michael Yenny",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
+    "tagline": "Hireable",
+    "bio": "I am a Full Stack Web Developer.",
+    "email": "michaeljyenny@gmail.com",
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
+      "portfolio": "michaelyenny.com",
+      "blog": "https://medium.com/@michaeljyenny",
       "github": "https://github.com/Myenny",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
+      "twitter": "https://twitter.com/MichaelYenny",
+      "linkedin": "https://www.linkedin.com/in/michael-yenny/"
     },
     "hireable": true
   },
