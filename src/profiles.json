@@ -13,17 +13,17 @@
     },
     "hireable": true
   },
-  {
+  {//change it, push it, pull request.
     "name": "Andrew J. Lanza",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// andrewjlanza@gmail.com",
+    "tagline": "NaN",
+    "bio": "UF graduate. St. Pete native. Always learning... ",
+    "email": " andrewjlanza@gmail.com",
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// medium.com/@andrewjlanza,
-      "github": "// github.com/andrewjlanza",
-      "twitter": "// @andrewjlanza",
-      "linkedin": "// linkedin.com/in/andrewjlanza/"
+      "portfolio": "andrewjlanza.com",
+      "blog": " medium.com/@andrewjlanza",
+      "github": " github.com/andrewjlanza",
+      "twitter": " @andrewjlanza",
+      "linkedin": "linkedin.com/in/andrewjlanza/"
     },
     "hireable": true
   },
