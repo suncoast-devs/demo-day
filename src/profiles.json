@@ -85,15 +85,15 @@
   },
   {
     "name": "Matthew Cooke",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
+    "tagline": "A coffee driven developer passionate about learning something new every day",
+    "bio": "Matt has spent a majority of his life in the Tampa Bay area and is a USF graduate. He came to the SDG with never having written a line of code and has fully embraced the process. Matt spends his free time with his family, friends, and his dog Arwen. His hobbies include: playing board games, learning to be a better developer, rock climbing, and video games",
+    "email": "cookem529@gmail.com",
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
+      "portfolio": "http://mattcooke.tech",
+      "blog": "https://medium.com/@cookem529",
+      "github": "https://github.com/leafsicle",
+      "twitter": "https://twitter.com/cookem529",
+      "linkedin": "https://www.linkedin.com/in/mattcookemed/"
     },
     "hireable": true
   },
