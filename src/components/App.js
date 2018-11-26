@@ -24,12 +24,12 @@ class App extends Component {
           <h1 className="banner">
             <Banner />
           </h1>
-          <h2 className="subtitle">Cohort X Demo Day</h2>
+          <h2 className="subtitle">Cohort XI Demo Day</h2>
           <time>
-            October 12
+            November 30th
             <sup>th</sup>, 2018
           </time>
-          <img src={x} alt="Cohort X" height="120" />
+          <img src={x} alt="Cohort XI" height="120" />
           <footer>
             <Icon n="down" />
           </footer>
