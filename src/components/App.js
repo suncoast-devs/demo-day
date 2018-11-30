@@ -3,9 +3,8 @@ import Emoji from './Emoji'
 import Icon from './Icon'
 import { ReactComponent as Banner } from '../images/banner.svg'
 import { ReactComponent as Logo } from '../images/logo.svg'
-import x from '../images/x.svg'
-import proforma from '../images/proforma.png'
-import malwarebytes from '../images/malwarebytes.png'
+import cohort from '../images/cohort.svg'
+import sponsor from '../images/knowbe4.png'
 import Profile from './Profile'
 
 import profiles from '../profiles.json'
@@ -24,12 +23,12 @@ class App extends Component {
           <h1 className="banner">
             <Banner />
           </h1>
-          <h2 className="subtitle">Cohort X Demo Day</h2>
+          <h2 className="subtitle">Cohort XI Demo Day</h2>
           <time>
-            October 12
+            November 30th
             <sup>th</sup>, 2018
           </time>
-          <img src={x} alt="Cohort X" height="120" />
+          <img src={cohort} alt="Cohort XI" height="120" />
           <footer>
             <Icon n="down" />
           </footer>
@@ -53,8 +52,7 @@ class App extends Component {
 
             <h3>Interested in taking classes or learning more?</h3>
             <p>
-              We are still accepting applications for our next cohorts begining October 22
-              <sup>nd</sup> and January 28
+              We are still accepting applications for our next cohort begining January 28
               <sup>th</sup>.
             </p>
           </div>
@@ -68,27 +66,17 @@ class App extends Component {
               <Profile key={profile.name} {...profile} />
             ))}
           </section>
-          <section className="special-thanks">
-            <div container="true">
-              <h4>A very special thanks:</h4>
-              <p>
-                We would like to say a special thank you to PROforma for their continued support. PROforma has sent
-                their employees through our program, provided mock interview opportunities for our students, and
-                continues to be involved in helping us not only to continue our program but improve it.
-              </p>
-              <figure>
-                <img src={proforma} alt="PROForma" height="48" />
-              </figure>
-            </div>
-          </section>
+          <section className="special-thanks" />
           <section className="sponsor-feature">
             <div container="true">
               <p>
-                We would also like to thank Malwarebytes, an active member of our Advisory Board, for providing food and
-                beverages for all of us to enjoy and celebrate with the graduates.
+                We would also like to thank Knowbe4, for providing food and beverages for all of us to enjoy and
+                celebrate with the graduates.
               </p>
               <figure>
-                <img src={malwarebytes} alt="Malwarebytes" height="64" />
+                <a href="https://www.knowbe4.com/">
+                  <img src={sponsor} alt="Demo Day Sponsor" height="64" />
+                </a>
               </figure>
             </div>
           </section>

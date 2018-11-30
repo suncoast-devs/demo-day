@@ -1,43 +1,43 @@
 [
   {
     "name": "Allan Seitz",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
+    "tagline": "Perfect practice makes perfect",
+    "bio": "Allan is a hardworking student",
+    "email": "amnseitz@yahoo.com",
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
+      "portfolio": "whoi-allan.surge.sh",
+      "blog": "n/a",
+      "github": "github.com/AllanSeitz",
+      "twitter": "n/a",
+      "linkedin": "https://www.linkedin.com/in/allan-seitz-93bb14171/"
     },
     "hireable": true
   },
   {
-    "name": "Andrew Lanza",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
+    "name": "Andrew J. Lanza",
+    "tagline": "NaN",
+    "bio": "UF graduate. St. Pete native. Always learning... ",
+    "email": " andrewjlanza@gmail.com",
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
+      "portfolio": "andrewjlanza.com",
+      "blog": " medium.com/@andrewjlanza",
+      "github": " github.com/andrewjlanza",
+      "twitter": " @andrewjlanza",
+      "linkedin": "linkedin.com/in/andrewjlanza/"
     },
     "hireable": true
   },
   {
     "name": "Benjamin Jehl",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
+    "tagline": "Web Developer excited about designing technologies that shape the future.",
+    "bio": "A native of northern Indiana, Ben moved to St. Pete two years ago while working in finance. He wanted to follow his passion for the Tech Industry and decided to attend the SDG Academy in order to learn how to write full stack web applications. When Ben isn't coding, he enjoys playing guitar, sports, cooking, traveling and continually learning valuable skills.",
+    "email": "benjamin.k.jehl@gmail.com",
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
+      "portfolio": "https://www.benjaminkent.io/",
+      "blog": "https://medium.com/@benjaminjehl",
+      "github": "https://github.com/benjaminkent?tab=repositories",
+      "twitter": "https://twitter.com/BenjaminJehl",
+      "linkedin": "https://www.linkedin.com/in/benjamin-k-jehl/"
     },
     "hireable": true
   },
@@ -81,33 +81,33 @@
       "twitter": "// TODO",
       "linkedin": "// TODO"
     },
-    "hireable": true
+    "hireable": false
   },
   {
     "name": "Matthew Cooke",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
+    "tagline": "A coffee driven developer passionate about learning something new every day",
+    "bio": "Matt has spent a majority of his life in the Tampa Bay area and is a USF graduate. He came to the SDG with never having written a line of code and has fully embraced the process. Matt spends his free time with his family, friends, and his dog Arwen. His hobbies include: playing board games, learning to be a better developer, rock climbing, and video games",
+    "email": "cookem529@gmail.com",
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
+      "portfolio": "http://mattcooke.tech",
+      "blog": "https://medium.com/@cookem529",
+      "github": "https://github.com/leafsicle",
+      "twitter": "https://twitter.com/cookem529",
+      "linkedin": "https://www.linkedin.com/in/mattcookemed/"
     },
     "hireable": true
   },
   {
     "name": "Michael Yenny",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
+    "tagline": "Hireable",
+    "bio": "I am a Full Stack Web Developer.",
+    "email": "michaeljyenny@gmail.com",
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
+      "portfolio": "michaelyenny.com",
+      "blog": "https://medium.com/@michaeljyenny",
+      "github": "https://github.com/Myenny",
+      "twitter": "https://twitter.com/MichaelYenny",
+      "linkedin": "https://www.linkedin.com/in/michael-yenny/"
     },
     "hireable": true
   },
