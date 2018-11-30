@@ -70,15 +70,14 @@
   },
   {
     "name": "Karsten Rogers",
-    "tagline": "// TODO",
-    "bio": "// TODO",
-    "email": "// TODO",
+    "tagline": "Can't fail if you don't try"
+    "bio": " Quite HardWorking Student"
+    "email": "k2brogers@hotmail.com"
     "links": {
-      "portfolio": "// TODO",
-      "blog": "// TODO",
-      "github": "// TODO",
-      "twitter": "// TODO",
-      "linkedin": "// TODO"
+      "blog": "https://medium.com/@k2brogers"
+      "github": "https://github.com/KarstenRogers"
+      "twitter": "https://twitter.com/KarstenRogers"
+      
     },
     "hireable": false
   },
