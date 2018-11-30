@@ -5,10 +5,8 @@
     "bio": "Allan is a hardworking student",
     "email": "amnseitz@yahoo.com",
     "links": {
-      "portfolio": "whoi-allan.surge.sh",
-      "blog": "n/a",
-      "github": "github.com/AllanSeitz",
-      "twitter": "n/a",
+      "portfolio": "https://whoi-allan.surge.sh",
+      "github": "https://github.com/AllanSeitz",
       "linkedin": "https://www.linkedin.com/in/allan-seitz-93bb14171/"
     },
     "hireable": true
@@ -17,13 +15,13 @@
     "name": "Andrew J. Lanza",
     "tagline": "NaN",
     "bio": "UF graduate. St. Pete native. Always learning... ",
-    "email": " andrewjlanza@gmail.com",
+    "email": "andrewjlanza@gmail.com",
     "links": {
-      "portfolio": "andrewjlanza.com",
-      "blog": " medium.com/@andrewjlanza",
-      "github": " github.com/andrewjlanza",
-      "twitter": " @andrewjlanza",
-      "linkedin": "linkedin.com/in/andrewjlanza/"
+      "portfolio": "https://andrewjlanza.com",
+      "blog": "https://medium.com/@andrewjlanza",
+      "github": "https://github.com/andrewjlanza",
+      "twitter": "https://twitter.com@andrewjlanza",
+      "linkedin": "https://linkedin.com/in/andrewjlanza/"
     },
     "hireable": true
   },
@@ -61,23 +59,20 @@
     "email": "lee.justin.oliver@gmail.com",
     "links": {
       "portfolio": "https://www.justin-olvier.com",
-      "blog": "N/A",
       "github": "https://github.com/JOLee83",
-      "twitter": "N/A",
       "linkedin": "https://www.linkedin.com/in/justin-oliver-lee/"
     },
     "hireable": true
   },
   {
     "name": "Karsten Rogers",
-    "tagline": "Can't fail if you don't try"
-    "bio": " Quite HardWorking Student"
-    "email": "k2brogers@hotmail.com"
+    "tagline": "Can't fail if you don't try",
+    "bio": "Quiet Hardworking Student",
+    "email": "k2brogers@hotmail.com",
     "links": {
-      "blog": "https://medium.com/@k2brogers"
-      "github": "https://github.com/KarstenRogers"
+      "blog": "https://medium.com/@k2brogers",
+      "github": "https://github.com/KarstenRogers",
       "twitter": "https://twitter.com/KarstenRogers"
-      
     },
     "hireable": false
   },
@@ -108,5 +103,5 @@
       "linkedin": "https://www.linkedin.com/in/michael-yenny/"
     },
     "hireable": true
-  },
+  }
 ]
