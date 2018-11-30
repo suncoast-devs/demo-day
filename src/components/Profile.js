@@ -10,7 +10,7 @@ const Profile = ({ name, tagline, bio, email, links, hireable, proforma }) => (
       <div className="content">
         <div className="name-title">
           <h3>{name}</h3>
-          <h4>{tagline}</h4>
+          <h4 dangerouslySetInnerHTML={{ __html: tagline }} />
         </div>
         <div className="biography">
           <p>{bio}</p>
