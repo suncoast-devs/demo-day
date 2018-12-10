@@ -21,7 +21,9 @@ class App extends Component {
       <>
         <header className="app-header">
           <h1 className="banner">
-            <Banner />
+            <a href="https://suncoast.io">
+              <Banner />
+            </a>
           </h1>
           <h2 className="subtitle">Cohort XI Demo Day</h2>
           <time>
@@ -52,8 +54,9 @@ class App extends Component {
 
             <h3>Interested in taking classes or learning more?</h3>
             <p>
-              We are still accepting applications for our next cohort begining January 28
-              <sup>th</sup>.
+              We are still <a href="https://suncoast.io/academy/apply">accepting applications</a> for our next cohort
+              begining January 28
+              <sup>th</sup>. <a href="https://suncoast.io/academy">Find out more.</a>
             </p>
           </div>
         </section>
@@ -83,9 +86,11 @@ class App extends Component {
         </main>
         <footer className="app-footer">
           <aside container="true">
-            <figure className="logo">
-              <Logo />
-            </figure>
+            <a href="https://suncoast.io">
+              <figure className="logo">
+                <Logo />
+              </figure>
+            </a>
           </aside>
           <div className="copyright">
             <p container="true">&copy; 2018 Suncoast Developers Guild, Inc.</p>
